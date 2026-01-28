@@ -21,4 +21,4 @@ I'm a student at **Western Governors University** focusing on transforming compl
 
 ### 📫 Let's Connect:
 - **Portfolio Website:** [joeylipe.github.io](https://joeylipe.github.io)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/joseph-lipe)
+
