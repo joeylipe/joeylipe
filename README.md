@@ -13,12 +13,6 @@ I'm a student at **Western Governors University** focusing on transforming compl
 
 ---
 
-### 📈 GitHub Analytics
-![Joseph's Stats](https://github-readme-stats.vercel.app/api?username=joeylipe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeylipe&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect:
 - **Portfolio Website:** [joeylipe.github.io](https://joeylipe.github.io)
 
