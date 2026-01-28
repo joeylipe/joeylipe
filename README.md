@@ -11,8 +11,5 @@ I'm a student at **Western Governors University** focusing on transforming compl
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
 
-### 📫 Let's Connect:
-- **Portfolio Website:** [joeylipe.github.io](https://joeylipe.github.io)
 
